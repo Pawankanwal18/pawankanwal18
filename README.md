@@ -14,16 +14,6 @@
 
 ---
 
-<!-- 🖼️ PROFILE WALLPAPER -->
-
-<div align="center">
-
-<img src="./assets/github-wallpaper.png" width="100%" alt="Pawan Kanwal Developer Wallpaper"/>
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Full+Stack+Developer;Building+Real-World+AI+Applications;Learning+DSA+%26+System+Design;Turning+Ideas+Into+Projects;Future+AI+Engineer+%F0%9F%9A%80" alt="Typing SVG"/>
@@ -127,41 +117,14 @@ Currently exploring:
 
 ---
 
-# 📚 Data Structures & Algorithms
-
-I'm actively improving my problem-solving skills using **C++**.
-
-```text
-Arrays
- ↓
-Strings
- ↓
-Linked Lists
- ↓
-Stacks & Queues
- ↓
-Trees & BST
- ↓
-Graphs
- ↓
-Greedy
- ↓
-Dynamic Programming
- ↓
-Advanced Algorithms
-```
-
-🎯 Practicing problems to prepare for **technical interviews and competitive programming**.
-
----
-
 # 🚀 Featured Projects
 
 ### 🤖 AI Projects
 
-| Project              | Description                                            |
-| -------------------- | ------------------------------------------------------ |
-| 🧠 AI Exam Predictor | AI-based system that predicts important exam questions |
+| Project               | Description                                            |
+| --------------------- | ------------------------------------------------------ |
+| 🧠 AI Exam Predictor  | AI-based system that predicts important exam questions |
+          
 
 ### 🌐 Full Stack Projects
 
@@ -170,6 +133,7 @@ Advanced Algorithms
 | 🌐 Portfolio           | React / TypeScript |
 | ⚛️ React Projects      | React / JavaScript |
 | 🟨 JavaScript Projects | JavaScript         |
+  
 
 > More projects are currently under development 🚀
 
@@ -195,6 +159,10 @@ Advanced Algorithms
 
 ---
 
+
+
+---
+
 # 🌐 Connect With Me
 
 <div align="center">
@@ -203,7 +171,7 @@ Advanced Algorithms
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:kanwalpawan72@gmail.com">
+<a href="mailto:[kanwalpawan72@gmail.com](mailto:kanwalpawan72@gmail.com)">
 <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
@@ -217,6 +185,7 @@ Advanced Algorithms
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&theme=tokyonight" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&theme=tokyonight"/>
 
 </div>
+add this image with in this code
