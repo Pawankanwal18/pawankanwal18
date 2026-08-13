@@ -152,7 +152,7 @@ Advanced Algorithms
 | Project               | Description                                            |
 | --------------------- | ------------------------------------------------------ |
 | 🧠 AI Exam Predictor  | AI-based system that predicts important exam questions |
-          |
+          
 
 ### 🌐 Full Stack Projects
 
