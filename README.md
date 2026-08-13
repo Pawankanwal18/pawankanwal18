@@ -172,27 +172,17 @@ Advanced Algorithms
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pawankanwal18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawankanwal18&layout=compact&theme=tokyonight" height="180" alt="Top Languages"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=Pawankanwal18&theme=tokyonight&hide_border=false" height="180" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+# 💻 My GitHub Journey
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Pawankanwal18/Pawankanwal18/activity-graph-output/activity-graph.svg" width="100%" alt="Contribution Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pawankanwal18&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Contribution Graph"/>
 
 </div>
 
@@ -202,23 +192,10 @@ Advanced Algorithms
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Pawankanwal18/Pawankanwal18/snake-output/snake.svg" width="100%" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Pawankanwal18/Pawankanwal18/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake"/>
 
 </div>
 
-#
-
----
-
-# 📈 My Developer Journey
-
-<div align="center">
-
-```text
-LEARN  →  BUILD  →  BREAK  →  DEBUG  →  IMPROVE  →  DEPLOY  →  REPEAT 🔁
-```
-
-</div>
 
 ---
 
