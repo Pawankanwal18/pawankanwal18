@@ -117,34 +117,6 @@ Currently exploring:
 
 ---
 
-# 📚 Data Structures & Algorithms
-
-I'm actively improving my problem-solving skills using **C++**.
-
-```text
-Arrays
- ↓
-Strings
- ↓
-Linked Lists
- ↓
-Stacks & Queues
- ↓
-Trees & BST
- ↓
-Graphs
- ↓
-Greedy
- ↓
-Dynamic Programming
- ↓
-Advanced Algorithms
-```
-
-🎯 Practicing problems to prepare for **technical interviews and competitive programming**.
-
----
-
 # 🚀 Featured Projects
 
 ### 🤖 AI Projects
