@@ -152,8 +152,7 @@ Advanced Algorithms
 | Project               | Description                                            |
 | --------------------- | ------------------------------------------------------ |
 | 🧠 AI Exam Predictor  | AI-based system that predicts important exam questions |
-| 📄 AI Resume Analyzer | Resume and job-description analysis                    |
-| 🤖 AI Applications    | AI-powered solutions for real-world problems           |
+          |
 
 ### 🌐 Full Stack Projects
 
@@ -162,7 +161,7 @@ Advanced Algorithms
 | 🌐 Portfolio           | React / TypeScript |
 | ⚛️ React Projects      | React / JavaScript |
 | 🟨 JavaScript Projects | JavaScript         |
-| 💻 C++ DSA             | C++ / Algorithms   |
+  
 
 > More projects are currently under development 🚀
 
@@ -188,13 +187,6 @@ Advanced Algorithms
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Pawankanwal18/Pawankanwal18/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake"/>
-
-</div>
 
 
 ---
