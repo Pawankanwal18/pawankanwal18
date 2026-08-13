@@ -14,6 +14,8 @@
 
 ---
 
+<!-- 🖼️ PROFILE WALLPAPER -->
+
 <div align="center">
 
 <img src="./assets/github-wallpaper.png" width="100%" alt="Pawan Kanwal Developer Wallpaper"/>
@@ -122,6 +124,34 @@ Currently exploring:
 * 🧩 AI Agents
 * 🐍 Python for AI
 * ☁️ AWS & Cloud Deployment
+
+---
+
+# 📚 Data Structures & Algorithms
+
+I'm actively improving my problem-solving skills using **C++**.
+
+```text
+Arrays
+ ↓
+Strings
+ ↓
+Linked Lists
+ ↓
+Stacks & Queues
+ ↓
+Trees & BST
+ ↓
+Graphs
+ ↓
+Greedy
+ ↓
+Dynamic Programming
+ ↓
+Advanced Algorithms
+```
+
+🎯 Practicing problems to prepare for **technical interviews and competitive programming**.
 
 ---
 
