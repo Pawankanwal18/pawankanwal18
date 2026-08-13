@@ -16,6 +16,14 @@
 
 <div align="center">
 
+<img src="./assets/github-wallpaper.png" width="100%" alt="Pawan Kanwal Developer Wallpaper"/>
+
+</div>
+
+---
+
+<div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Full+Stack+Developer;Building+Real-World+AI+Applications;Learning+DSA+%26+System+Design;Turning+Ideas+Into+Projects;Future+AI+Engineer+%F0%9F%9A%80" alt="Typing SVG"/>
 
 </div>
@@ -121,10 +129,9 @@ Currently exploring:
 
 ### 🤖 AI Projects
 
-| Project               | Description                                            |
-| --------------------- | ------------------------------------------------------ |
-| 🧠 AI Exam Predictor  | AI-based system that predicts important exam questions |
-          
+| Project              | Description                                            |
+| -------------------- | ------------------------------------------------------ |
+| 🧠 AI Exam Predictor | AI-based system that predicts important exam questions |
 
 ### 🌐 Full Stack Projects
 
@@ -133,7 +140,6 @@ Currently exploring:
 | 🌐 Portfolio           | React / TypeScript |
 | ⚛️ React Projects      | React / JavaScript |
 | 🟨 JavaScript Projects | JavaScript         |
-  
 
 > More projects are currently under development 🚀
 
@@ -159,10 +165,6 @@ Currently exploring:
 
 ---
 
-
-
----
-
 # 🌐 Connect With Me
 
 <div align="center">
@@ -171,7 +173,7 @@ Currently exploring:
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:[kanwalpawan72@gmail.com](mailto:kanwalpawan72@gmail.com)">
+<a href="mailto:kanwalpawan72@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
@@ -185,6 +187,6 @@ Currently exploring:
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&theme=tokyonight"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&theme=tokyonight" alt="Footer"/>
 
 </div>
