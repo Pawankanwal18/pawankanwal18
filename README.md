@@ -33,7 +33,7 @@
 🧠 DSA & Problem Solving Enthusiast
 🌱 Currently learning AI, MERN, Next.js & AWS
 🚀 Building practical and real-world projects
-🎯 Goal: Become a strong AI Engineer
+🎯 Goal: Become a strong AI Engineer 
 ```
 
 I enjoy building applications that combine **Artificial Intelligence, software engineering, and modern web technologies**.
