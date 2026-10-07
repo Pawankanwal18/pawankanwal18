@@ -7,8 +7,6 @@
 
 
 
-
-
 ### 🤖 AI Engineer in Progress | 💻 Full Stack Developer | 🧠 Problem Solver
 
 <p>
