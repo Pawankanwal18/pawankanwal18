@@ -2,7 +2,6 @@
 <h1 align="left">
 <div align="center">
 
-
 # 👋 Hey, I'm Pawan Kanwal 
 
 
